@@ -95,6 +95,13 @@
               <span>Settings</span>
             </div>
           </nuxt-link>
+          
+          <nuxt-link to="/z" class="nav-link">
+            <div>
+              <img src="~assets/images/settings.svg" alt="settings" />
+              <span>Settings</span>
+            </div>
+          </nuxt-link>
         </li>
       </ul>
     </nav>
